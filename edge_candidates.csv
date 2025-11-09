@@ -1,0 +1,33 @@
+id,question,slug,endDate,price_yes,price_no,bestBid_num,bestAsk_num,rel_spread,stale_yes_ask,ask_sum,sum_off,liquidity_num,volumeNum,acceptingOrders
+516809,Will SpaceX have between 160-179 launches in 2025?,will-spacex-have-between-160-179-launches-in-2025,2025-12-31T12:00:00Z,0.915,0.085,0.91,0.92,0.010928961748633888,True,1.0,0.0,2542.5346,24161.051425,True
+516818,Will NVIDIA be the largest company in the world by market cap on December 31?,will-nvidia-be-the-largest-company-in-the-world-by-market-cap-on-december-31-2025,2025-12-31T12:00:00Z,0.885,0.115,0.88,0.89,0.011299435028248598,True,1.0,0.0,67587.3957,1370083.396587,True
+516960,Will Google have the top AI model on December 31?,which-company-has-best-ai-model-end-of-2025,2025-12-31T12:00:00Z,0.8,0.2,0.79,0.81,0.025000000000000022,True,1.0,0.0,38633.9547,888834.189812,True
+516726,Will 3 Fed rate cuts happen in 2025?,will-3-fed-rate-cuts-happen-in-2025,2025-12-10T12:00:00Z,0.7,0.3,0.69,0.71,0.0285714285714286,True,1.0,0.0,47061.8365,2695115.294601,True
+620022,"Will Ethereum dip to $3,000 by December 31?",will-ethereum-dip-to-3000-by-december-31,2026-01-01T05:00:00Z,0.61,0.39,0.6,0.62,0.03278688524590167,True,1.0,0.0,70489.314,564845.826859,True
+619977,"Will Bitcoin dip to $90,000 by December 31, 2025?",will-bitcoin-dip-to-90000-by-december-31-2025-174-623-586,2026-01-01T05:00:00Z,0.45,0.55,0.44,0.46,0.04444444444444448,True,1.0,0.0,82207.2344,807707.709444,True
+517012,Will Wicked: For Good be the top grossing movie of 2025?,will-wicked-for-good-be-the-top-grossing-movie-of-2025,2025-12-31T12:00:00Z,0.5555,0.4445,0.543,0.568,0.045004500450044845,True,1.0,0.0,64910.65331,1097713.577631,True
+670234,"Will Bitcoin dip to $100,000 by December 31, 2025?",will-bitcoin-dip-to-100000-by-december-31-2025,2026-01-01T05:00:00Z,0.87,0.13,0.85,0.89,0.045977011494252915,True,1.0,0.0,38678.4907,4621.570307,True
+666217,"Will Bitcoin reach $120,000 by December 31, 2025?",will-bitcoin-reach-120000-by-december-31-2025,2026-01-01T05:00:00Z,0.33,0.67,0.32,0.34,0.060606060606060656,True,1.0,0.0,80555.7792,85388.376595,True
+620015,"Will Bitcoin dip to $80,000 by December 31, 2025?",will-bitcoin-dip-to-80000-by-december-31-2025-118-573-457,2026-01-01T05:00:00Z,0.18,0.82,0.174,0.186,0.06666666666666674,True,1.0,0.0,53703.44155,305912.455155,True
+516725,Will 2 Fed rate cuts happen in 2025?,will-2-fed-rate-cuts-happen-in-2025,2025-12-10T12:00:00Z,0.26,0.74,0.25,0.27,0.07692307692307698,True,1.0,0.0,101999.8965,2550056.126209,True
+517020,Will A Minecraft Movie be the top grossing movie of 2025?,will-a-minecraft-movie-be-the-top-grossing-movie-of-2025,2025-12-31T12:00:00Z,0.126,0.874,0.12,0.132,0.09523809523809532,True,1.0,0.0,32328.2869,1345328.988068,True
+516865,"Will Bitcoin reach $130,000 by December 31, 2025?",will-bitcoin-reach-130000-by-december-31-2025-911-832,2025-12-31T12:00:00Z,0.2,0.8,0.19,0.21,0.09999999999999995,True,1.0,0.0,170565.6295,5581887.646058,True
+517017,Will Zootopia 2 be the top grossing movie of 2025?,will-zootopia-2-be-the-top-grossing-movie-of-2025,2025-12-31T12:00:00Z,0.2055,0.7945,0.194,0.217,0.11192214111922137,True,1.0,0.0,33916.9903,2037485.818193,True
+574072,"Will Bitcoin reach $140,000 by December 31, 2025?",will-bitcoin-reach-140000-by-december-31-2025-258-893,,0.085,0.915,0.08,0.09,0.11764705882352937,True,1.0,0.0,127025.7512,2104581.167377,True
+516961,Will OpenAI have the top AI model on December 31?,will-openai-have-the-top-ai-model-on-december-31,2025-12-31T12:00:00Z,0.075,0.925,0.07,0.08,0.13333333333333325,True,1.0,0.0,34397.0446,508850.512156,True
+516864,"Will Bitcoin reach $150,000 by December 31, 2025?",will-bitcoin-reach-150000-by-december-31-2025-188,2025-12-31T12:00:00Z,0.065,0.935,0.06,0.07,0.15384615384615397,True,1.0,0.0,215648.96,8703053.588627,True
+516716,Khamenei out as Supreme Leader of Iran in 2025?,khamenei-out-as-supreme-leader-of-iran-in-2025,2025-12-31T12:00:00Z,0.065,0.935,0.06,0.07,0.15384615384615397,True,1.0,0.0,167243.4147,8694680.859568,True
+516877,"Will Ethereum hit $6,000 by December 31?",will-ethereum-hit-6000-by-december-31-843-315,2025-12-31T12:00:00Z,0.055,0.945,0.05,0.06,0.18181818181818174,True,1.0,0.0,154995.2734,5528109.220231,True
+516717,Nuclear weapon detonation in 2025?,nuclear-weapon-detonation-in-2025,2025-12-31T12:00:00Z,0.055,0.945,0.05,0.06,0.18181818181818174,True,1.0,0.0,66671.6339,1791696.232615,True
+516871,"Will Bitcoin dip to $70,000 by December 31, 2025?",will-bitcoin-dip-to-70000-by-december-31-2025-193-726-878-775-359-968-264-727,2025-12-31T12:00:00Z,0.09,0.91,0.08,0.1,0.22222222222222227,True,1.0,0.0,116697.352,3336480.57637,True
+516810,Will SpaceX have between 180-199 launches in 2025?,will-spacex-have-between-180-199-launches-in-2025,2025-12-31T12:00:00Z,0.034,0.966,0.03,0.038,0.23529411764705882,True,1.0,0.0,4283.60194,19687.49115,True
+516714,Weed rescheduled in 2025?,weed-rescheduled-in-2025,2025-12-31T12:00:00Z,0.095,0.905,0.08,0.11,0.3157894736842105,True,1.0,0.0,11195.5137,62310.296129,True
+516842,Brian Armstrong out as Coinbase CEO in 2025?,brian-armstrong-out-as-coinbase-ceo-in-2025,2025-12-31T12:00:00Z,0.025,0.975,0.021,0.029,0.32,True,1.0,0.0,30606.51115,171004.267994,True
+516719,Russia x Ukraine ceasefire in 2025?,russia-x-ukraine-ceasefire-in-2025,2025-12-31T12:00:00Z,0.06,0.94,0.05,0.07,0.33333333333333337,True,1.0,0.0,618551.1332,26196254.423849,True
+516840,Dan Clancy out as Twitch CEO in 2025?,dan-clancy-out-as-twitch-ceo-in-2025,2025-12-31T12:00:00Z,0.075,0.925,0.06,0.09,0.4,True,1.0,0.0,1818.4456,180031.148565,True
+516711,Fed emergency rate cut in 2025?,fed-emergency-rate-cut-in-2025,2025-12-31T12:00:00Z,0.0285,0.9715,0.022,0.035,0.4561403508771931,True,1.0,0.0,52927.76521,1170046.663089,True
+516820,Will Microsoft be the largest company in the world by market cap on December 31?,will-microsoft-be-the-largest-company-in-the-world-by-market-cap-on-december-31-2025,2025-12-31T12:00:00Z,0.0135,0.9865,0.01,0.017,0.5185185185185185,True,1.0,0.0,51986.96503,749030.560133,True
+516837,Sundar Pichai out as Google CEO in 2025?,sundar-pichai-out-as-google-ceo-in-2025,2025-12-31T12:00:00Z,0.03,0.97,0.021,0.039,0.6,True,1.0,0.0,4393.00218,33528.863689,True
+516841,Andy Jassy out as Amazon CEO in 2025?,andy-jassy-out-as-amazon-ceo-in-2025,2025-12-31T12:00:00Z,0.0305,0.9695,0.021,0.04,0.6229508196721312,True,1.0,0.0,5406.23416,7774.968525,True
+516847,Sam Altman out as OpenAI CEO in 2025?,sam-altman-out-as-openai-ceo-in-2025,2025-12-31T12:00:00Z,0.0295,0.9705,0.02,0.039,0.6440677966101696,True,1.0,0.0,5820.68238,78704.940451,True
+516712,Tether insolvent in 2025?,tether-insolvent-in-2025,2025-12-31T12:00:00Z,0.0125,0.9875,0.008,0.017,0.7200000000000001,True,1.0,0.0,41995.10879,312825.95095,True

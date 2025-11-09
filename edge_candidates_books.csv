@@ -1,0 +1,1 @@
+id,question,slug,endDate,book_bids,book_asks,book_bid_sum,book_ask_sum,book_bid_size_sum,book_ask_size_sum,book_underround,book_overround,price_yes,price_no,bestBid_num,bestAsk_num,rel_spread,liquidity_num,volumeNum,acceptingOrders,gross_gap
